@@ -1,0 +1,27 @@
+order_id,order_date,customer_id,customer_name,product_category,product_name,quantity,unit_price,payment_method,city,order_status
+ORD2001,2026-10-12,CUST103,Meera Iyer,Electronics,Wireless Earbuds,1,1999,Debit Card,Bangalore,Returned
+ORD2002,2026-10-15,CUST110,Sanjay Kumar,Fashion,Backpack,2,1199,Net Banking,Mumbai,Cancelled
+ORD2003,2026-10-18,CUST107,Isha Kapoor,Grocery,Green Tea Box,4,299,,Bangalore,Delivered
+ORD2004,2026-10-15,CUST106,Vikram Shah,Grocery,Olive Oil 1L,4,899,UPI,Kochi,Cancelled
+ORD2005,2026-10-17,CUST106,Vikram Shah,Electronics,Wireless Earbuds,3,1999,UPI,Mumbai,Delivered
+ORD2006,2026-10-15,CUST102,Kabir Singh,Fashion,Sunglasses,,799,Debit Card,Chennai,Delivered
+ORD2007,2026-10-12,CUST108,Arjun Pillai,Electronics,Bluetooth Speaker,1,2199,Net Banking,Bangalore,Delivered
+ORD2008,2026-10-15,CUST106,Vikram Shah,Fashion,Denim Jacket,4,1899,Credit Card,Chennai,Delivered
+ORD2009,2026-10-15,CUST100,Aarav Nair,Fashion,Sunglasses,3,799,COD,Delhi,Shipped
+ORD2010,2026-10-14,CUST103,,Grocery,Green Tea Box,2,299,UPI,Hyderabad,Cancelled
+ORD2011,2026-10-12,CUST100,Aarav Nair,Electronics,Power Bank,4,1299,Net Banking,Hyderabad,Delivered
+ORD2012,2026-10-12,CUST102,Kabir Singh,Electronics,Wireless Earbuds,1,1999,Credit Card,Chennai,delivered
+ORD2013,2026-10-12,CUST109,Neha Joshi,Fashion,Running Shoes,4,2499,Net Banking,Hyderabad,Returned
+ORD2014,2026-10-17,CUST103,Meera Iyer,Home,Bedsheet Set,3,1499,Credit Card,Delhi,Shipped
+ORD2015,2026-10-14,CUST107,Isha Kapoor,FASHION,Backpack,1,1199,UPI,Chennai,Returned
+ORD2016,2026-10-13,CUST108,Arjun Pillai,Electronics,Wireless Earbuds,3,1999,Credit Card,Delhi,Delivered
+ORD2017,2026-10-13,CUST104,Rohan Das,Fashion,Backpack,4,1199,Net Banking,Kochi,Delivered
+ORD2018,2026-10-12,CUST110,Sanjay Kumar,Electronics,Power Bank,2,1299,Debit Card,Bangalore,Delivered
+ORD2019,2026-10-16,CUST104,Rohan Das,Fashion,Backpack,2,1199,Debit Card,Mumbai,Cancelled
+ORD2020,2026-10-18,CUST104,Rohan Das,Home,Water Bottle,1,399,UPI,Kochi,Shipped
+ORD2021,2026-10-14,CUST100,Aarav Nair,Home,Air Fryer,2,4999,Debit Card,Mumbai,Cancelled
+ORD2022,2026-10-12,CUST108,Arjun Pillai,Grocery,Protein Bar Pack,1,649,UPI,Kochi,Delivered
+ORD2023,2026-10-16,CUST109,Neha Joshi,Electronics,Power Bank,2,1299,COD,Mumbai,Delivered
+ORD2024,2026-10-14,CUST100,Aarav Nair,Home,Bedsheet Set,2,1499,Credit Card,Kochi,Delivered
+ORD2025,2026-10-17,CUST109,Neha Joshi,Home,Water Bottle,2,399,Credit Card,Mumbai,Delivered
+ORD2001,2026-10-12,CUST103,Meera Iyer,Electronics,Wireless Earbuds,1,1999,Debit Card,Bangalore,Returned
