@@ -1,0 +1,26 @@
+order_id,order_date,customer_id,customer_name,product_category,product_name,quantity,unit_price,payment_method,city,order_status
+ORD1001,2026-10-07,CUST111,Priya Reddy,Electronics,Wireless Earbuds,2,1999,Credit Card,Mumbai,Cancelled
+ORD1002,2026-10-08,CUST109,Neha Joshi,Electronics,Wireless Earbuds,1,1999,UPI,Bangalore,Delivered
+ORD1003,2026-10-06,CUST108,Arjun Pillai,Fashion,Running Shoes,4,2499,Credit Card,Chennai,Returned
+ORD1004,2026-10-10,CUST102,,Home,Air Fryer,4,4999,Debit Card,Delhi,Delivered
+ORD1005,2026-10-05,CUST101,Diya Menon,Fashion,Backpack,4,1199,UPI,Delhi,Delivered
+ORD1006,2026-10-08,CUST111,Priya Reddy,Home,Air Fryer,1,4999,COD,Bangalore,Returned
+ORD1007,2026-10-06,CUST109,Neha Joshi,Home,Bedsheet Set,1,1499,UPI,Kochi,Delivered
+ORD1008,2026-10-11,CUST103,Meera Iyer,Home,Air Fryer,1,4999,COD,,Shipped
+ORD1009,2026-10-07,CUST105,Ananya Rao,Home,Table Lamp,2,899,Debit Card,Kochi,Cancelled
+ORD1010,2026-10-10,CUST108,Arjun Pillai,Electronics,Smart Watch,2,3499,Credit Card,Chennai,Shipped
+ORD1011,2026-10-07,CUST110,Sanjay Kumar,Home,Table Lamp,1,899,Credit Card,Bangalore,Delivered
+ORD1012,2026-10-06,CUST101,Diya Menon,Grocery,Olive Oil 1L,3,899,Credit Card,Kochi,Shipped
+ORD1013,2026-10-07,CUST102,Kabir Singh,Grocery,Protein Bar Pack,2,,Credit Card,Kochi,Returned
+ORD1014,2026-10-08,CUST109,Neha Joshi,Home,Water Bottle,3,399,Credit Card,Mumbai,Returned
+ORD1015,2026-10-11,CUST100,Aarav Nair,Grocery,Almonds 500g,1,549,Credit Card,Kochi,Delivered
+ORD1016,2026-10-08,CUST106,Vikram Shah,  electronics ,Almonds 500g,4,549,Net Banking,Delhi,Returned
+ORD1017,2026-10-09,CUST110,Sanjay Kumar,Electronics,Wireless Earbuds,3,1999,Debit Card,Bangalore,Delivered
+ORD1018,2026-10-05,CUST107,Isha Kapoor,Grocery,Green Tea Box,3,299,Net Banking,Mumbai,Returned
+ORD1019,2026-10-09,CUST110,Sanjay Kumar,Electronics,Power Bank,2,1299,Credit Card,Delhi,Delivered
+ORD1020,2026-10-05,CUST107,Isha Kapoor,Electronics,Power Bank,1,1299,Debit Card,Delhi,Delivered
+ORD1021,2026-10-05,CUST109,Neha Joshi,Electronics,Smart Watch,1,3499,COD,bangalore ,Returned
+ORD1022,2026-10-08,CUST110,Sanjay Kumar,Fashion,Denim Jacket,2,1899,Debit Card,Hyderabad,Returned
+ORD1023,2026-10-11,CUST108,Arjun Pillai,Grocery,Green Tea Box,2,299,Debit Card,Chennai,Cancelled
+ORD1024,2026-10-08,CUST108,Arjun Pillai,Home,Water Bottle,1,399,Credit Card,Mumbai,Delivered
+ORD1025,2026-10-09,CUST109,Neha Joshi,Home,Air Fryer,2,4999,Net Banking,Mumbai,Delivered
